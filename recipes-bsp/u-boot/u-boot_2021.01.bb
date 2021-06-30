@@ -44,7 +44,6 @@ SRC_URI_append_unmatched = " \
     file://0031-Update-SiFive-Unmatched-defconfig.patch \
     file://0032-riscv-sifive-unmatched-set-cacheline-size-to-64-byte.patch \
     file://0033-fu740-add-CONFIG_CMD_GPT-and-CONFIG_CMD_GPT_RENAME.patch \
-    file://0034-Unmathced-FU740-add-NVME-USB-and-PXE-to-boot-targets.patch \
     file://0035-riscv-clear-feature-disable-CSR.patch \
     file://0036-riscv-sifive-unmatched-add-I2C-EEPROM.patch \
     file://0037-cmd-Add-a-pwm-command.patch \
